@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Blockchain,React,WebDevelopment**
 
- 💬 Ask me about **Node.js, React, , MongoDB... or anything [here](https://github.com/Shri2703)**
+ 💬 Ask me about ** React, Node.js, MongoDB... or anything [here](https://github.com/Shri2703)**
 
 
  
