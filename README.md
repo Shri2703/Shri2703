@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Poorna+Shri!;" />
 </h1>
 
-<h3 align="center">🚀 Frontend maestro crafting captivating user experiences🖥️💡. ✨ Embarking on blockchain 🔗 exploration and Python wizardry🐍 for a tech-powered future.r</h3>
+<h3 align="center">🚀 Frontend maestro crafting captivating user experiences🖥️💡. ✨ Embarking on blockchain 🔗 exploration and Python wizardry🐍 for a tech-powered future.</h3>
 
 <br/>
 
