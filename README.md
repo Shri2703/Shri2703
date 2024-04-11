@@ -14,7 +14,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **VOTE INDIA DAPP**
+ 🔭 I’m currently working on **MERN STACK PROJECT**
  
  🌱 I’m currently learning **Blockchain,React,WebDevelopment**
 
