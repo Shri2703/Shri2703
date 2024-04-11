@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **MERN STACK PROJECT**
  
- 🌱 I’m currently learning **Blockchain,React,WebDevelopment**
+ 🌱 I’m currently learning **Blockchain,React,WebDevelopment,Backend**
 
  💬 Ask me about ** React, Node.js, MongoDB... or anything [here](https://github.com/Shri2703)**
 
