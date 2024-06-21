@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **MERN STACK PROJECT**
  
- 🌱 I’m currently learning **Blockchain,React,WebDevelopment,Backend**
+ 🌱 I’m currently learning **Blockchain,FullStackWebDevlopment**
 
  💬 Ask me about ** React, Node.js, MongoDB... or anything [here](https://github.com/Shri2703)**
 
@@ -41,7 +41,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,mui,tailwind,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,java,python,nodejs,mongodb,express,solidity,leetcode,Hackerrank" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,java,python,nodejs,mongodb,express,solidity" /><br>
     
 </div>
 
@@ -62,10 +62,10 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Shri2703&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<!--   <img width=390 src="https://github-readme-Shri2703.vercel.app/api?username=Shri2703&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
+  <img width=390 src="https://github-readme-Shri2703.vercel.app/api?username=Shri2703&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-<!--   <img width=325 align="center" src="https://github-readme-Shri2703.vercel.app/api/top-langs/?username=Shri2703&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div> -->
+  <img width=325 align="center" src="https://github-readme-Shri2703.vercel.app/api/top-langs/?username=Shri2703&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <br/><br/>
 <hr/>
