@@ -17,6 +17,8 @@
  🔭 I’m currently working on **MERN STACK PROJECT**
  
  🌱 I’m currently learning **Blockchain,FullStackWebDevlopment**
+ 
+ 🏆 Achievements: **LeetCode badges for consistency and problem-solving** **Hackerrank Gold Badges in python**
 
  💬 Ask me about ** React, Node.js, MongoDB... or anything [here](https://github.com/Shri2703)**
 
