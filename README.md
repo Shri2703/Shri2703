@@ -18,7 +18,7 @@
  
  🌱 I’m currently learning **Blockchain,FullStackWebDevlopment**
  
- 🏆 Achievements: **LeetCode badges for consistency and problem-solving**,
+ 🏆 Achievements: **LeetCode badges for consistency and problem-solving**,<br />
                   **Hackerrank Gold Badges in python**
 
  💬 Ask me about ** React, Node.js, MongoDB... or anything [here](https://github.com/Shri2703)**
